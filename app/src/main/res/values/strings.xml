@@ -1,0 +1,10 @@
+<resources>
+        <string name="app_name">Flashcard</string>
+        <string name="forgot_password" >forgot password</string>
+        <string name="welcome_back">WELCOME BACK</string>
+        <string name="or_register_with">Or register with</string>
+        <string name="default_web_client_id">Your default web client ID from Firebase</string>
+        <string name="google_sign_in_failed">Google SignUp Failed</string>
+        <string name="sign_in_with_google">Sign up with Google</string>
+        <string name="continue_with_google">Continue with Google</string>
+</resources>
