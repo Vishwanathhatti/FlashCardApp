@@ -1,0 +1,21 @@
+<resources>
+        <string name="app_name">Flashcard</string>
+        <string name="splash_loading">Loading your flashcards...</string>
+        <string name="app_logo">Flashcard App Logo</string>
+        <string name="create_account">Create Your Account</string>
+        <string name="full_name">Full Name</string>
+        <string name="email">Email</string>
+        <string name="password">Password</string>
+        <string name="confirm_password">Confirm Password</string>
+        <string name="register">Register</string>
+        <string name="already_have_account">Already have an account?</string>
+        <string name="login">Login</string>
+        <string name="dont_have_account" >Dont have Account ??</string>
+        <string name="forgot_password" >forgot password</string>
+        <string name="welcome_back">WELCOME BACK</string>
+        <string name="or_register_with">Or register with</string>
+        <string name="default_web_client_id">Your default web client ID from Firebase</string>
+        <string name="google_sign_in_failed">Google SignUp Failed</string>
+        <string name="sign_in_with_google">Sign up with Google</string>
+        <string name="continue_with_google">Continue with Google</string>
+</resources>
